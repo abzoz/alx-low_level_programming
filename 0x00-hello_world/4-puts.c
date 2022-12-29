@@ -2,17 +2,17 @@
 
 
 /**
- * main - print "Programming is like building a multilingual
- * puzzle, followed by anew line.
- * Retrun: Alwayes 0.
- */                            
+ * main - prints "programming is like building amultilingual puzzle, followed by anew line.
+ * Return: Always 0.
+ */
 
 
-int main (void)
+int main(void)
 
 
-{ 
-	puts("\"Programming is like building a multilingual puzzle");
-	retrun (0);
+{	
+	puts("\"programming is like building a multilingual puzzle");
+	return (0);
 
 }	
+
