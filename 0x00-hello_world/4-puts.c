@@ -2,8 +2,9 @@
 
 
 /**
- * main - print "Programming is like building a multilingual puzzle, followed by a new line.
- * Return: Alwayes 0.
+ * main - print "Programming is like building a multilingual
+ * puzzle, followed by anew line.
+ * Retrun: Alwayes 0.
  */
 
 int main (void)
