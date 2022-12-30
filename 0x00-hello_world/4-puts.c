@@ -4,13 +4,14 @@
 /**
  * main - print "Programming is like building a multilingual
  * puzzle, followed by anew line.
- * Retrun: Alwayes 0.
+ * Return: Alwayes 0.
  */
 
 
 int main(void)
 
 {
+        
 puts("\"Programming is like building a multilingual puzzle");
 return (0);
 }
