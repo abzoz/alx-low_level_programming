@@ -15,6 +15,7 @@ int main(void)
 {
 
 	int n;
+	int make_iso_compilers_happy;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
