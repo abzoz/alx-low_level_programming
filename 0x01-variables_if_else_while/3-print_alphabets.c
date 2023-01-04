@@ -19,7 +19,7 @@ c++;
 while
 (d <= 'z')
 {
-putchar(d);
+putchar(c);
 d++;
 }
 putchar('\n');
